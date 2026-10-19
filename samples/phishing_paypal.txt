@@ -1,0 +1,14 @@
+From: PayPal Security <service@paypa1-secure-login.com>
+Subject: URGENT: Your PayPal account has been suspended!
+
+Dear Customer,
+
+We detected unusual activity on your account. Your account will be suspended
+within 24 hours unless you verify your identity immediately.
+
+Please confirm your password and credit card number here:
+http://paypa1-secure-login.com/verify/account?id=88213
+
+Failure to comply will result in permanent closure.
+
+PayPal Security Team
