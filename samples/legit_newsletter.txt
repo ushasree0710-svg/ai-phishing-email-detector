@@ -1,0 +1,13 @@
+From: GitHub <noreply@github.com>
+Subject: Your weekly digest
+
+Hi Ushasree,
+
+Here is what happened in the repositories you watch this week:
+- 3 new pull requests were opened
+- 1 issue was closed
+
+View your dashboard: https://github.com/notifications
+
+Thanks,
+The GitHub team

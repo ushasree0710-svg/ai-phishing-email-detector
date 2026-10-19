@@ -1,0 +1,11 @@
+From: Priya Sharma <priya.sharma@acme-corp.com>
+Subject: Project sync tomorrow at 3 PM
+
+Hi team,
+
+Just a reminder that our project sync is tomorrow at 3 PM in Room 204.
+Please bring your updated task lists. The agenda is in the shared drive:
+https://acme-corp.com/wiki/project-sync
+
+Regards,
+Priya
